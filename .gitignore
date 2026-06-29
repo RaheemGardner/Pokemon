@@ -34,3 +34,6 @@
 /Pokemon/Pokemon.sln
 /Pokemon/Pokemon.vcxproj
 /Pokemon/Pokemon.vcxproj.filters
+
+.vs/
+**/.vs/
