@@ -30,3 +30,7 @@
 *.exe
 *.out
 *.app
+/Pokemon/Pokemon.sln
+/Pokemon/Pokemon.sln
+/Pokemon/Pokemon.vcxproj
+/Pokemon/Pokemon.vcxproj.filters
